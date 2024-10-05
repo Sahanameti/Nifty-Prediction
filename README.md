@@ -1,13 +1,5 @@
 # Stock Price Prediction of Nifty 50 Companies
-## Group members
-- Nihal N. Bhopatrao (Roll No. 5)
-- Sanket R. Kumbhare (Roll No. 36)
-- Shashank D. Wankhede (Roll No. 59)
----
-## Project Guide
-- Prof. A. S. Kunte
----
-## Content
+
 ### Main Directory
 ```
 Nifty-Prediction  
@@ -16,7 +8,7 @@ Nifty-Prediction
 └───models
 └───Screenshots
 ```
-### 1. [Documents Folder](https://github.com/Sanket-Kumbhare/Nifty-Prediction/tree/master/Documents)
+### 1. [Documents Folder]
 Contains Reports, PPT and Project diaries of 7<sup>th</sup> and 8<sup>th</sup> semester.
 > Documents Directory
 ```
@@ -28,7 +20,7 @@ Documents
 |   Sem8 report stock Price Prediction.pdf
 |   Stock Market Prediction PPT-converted.pptx 
 ```
-### 2. [Nifty-50-Prediction Folder](https://github.com/Sanket-Kumbhare/Nifty-Prediction/tree/master/Nifty-50-Prediction)
+### 2. [Nifty-50-Prediction Folder]
 Contains following Django Project files and folders.
 > Nifty-50-Prediction Directory
 ```
@@ -40,7 +32,7 @@ Nifty-50-Prediction
 |   manage.py
 |   nifty50Companies.csv 
 ```
-  - #### [Stock_Prediction](https://github.com/Sanket-Kumbhare/Nifty-Prediction/tree/master/Nifty-50-Prediction/Stock_Prediction)
+  - #### [Stock_Prediction]
   > The Django project holds some configurations that apply to the project as a whole, such as project settings, URLs, shared templates and static files. Each application can have its own database and has its own functions to control how the data is displayed to the user in HTML templates.\
   > Stock_Prediction Directory
  ```
@@ -51,7 +43,7 @@ Nifty-50-Prediction
  |   urls.py
  |   wsgi.py
  ```
-  - #### [lstm](https://github.com/Sanket-Kumbhare/Nifty-Prediction/tree/master/Nifty-50-Prediction/lstm)
+  - #### [lstm]
   > It is special kind of recurrent neural network that is capable of learning long term dependencies in data. This is achieved because the recurring module of the model has a combination of four layers interacting with each other.\
   > lstm Directory
  ```
